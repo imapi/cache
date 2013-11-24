@@ -15,7 +15,7 @@ import java.util.logging.Logger;
  * To avoid such situation timeout should be set large enough to complete all loading task.</p>
  * <p/>
  * <p>Also, in case of different nature of sources and frequent updates, it is better to use another invalidator
- * with more invalidation policy.</p>
+ * with more sophisticated invalidation policy.</p>
  *
  * @param <U> cache element type
  * @author Ivan Bondarenko
