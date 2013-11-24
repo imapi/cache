@@ -1,4 +1,0 @@
-maven
-=====
-
-Basic archetype
